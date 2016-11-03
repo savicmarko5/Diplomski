@@ -1,0 +1,2 @@
+# Diplomski
+Master thesis
